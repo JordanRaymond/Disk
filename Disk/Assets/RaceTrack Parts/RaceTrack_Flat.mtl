@@ -1,0 +1,8 @@
+newmtl Metal__Ring
+Kd 0.7215686 0.4509804 0.2
+d 1
+
+newmtl SpatialMappingWireframe
+Kd 1.0 1.0 1.0
+d 1.0
+

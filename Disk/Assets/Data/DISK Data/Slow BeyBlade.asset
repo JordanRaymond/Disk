@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a95d575002f05034d9927148da3653ff, type: 3}
+  m_Name: Slow BeyBlade
+  m_EditorClassIdentifier: 
+  moveSpeed: 10
+  boostSpeed: 6
+  drag: 4
+  jumpTrust: 4
+  downForce: 10
+  torque: 8
+  maxAngularVelocity: 20
+  angularDrag: 4
+  rotationAccelerationSpeed: 0.1
+  rotationUpForce: 5

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a95d575002f05034d9927148da3653ff, type: 3}
+  m_Name: PrototypeStats
+  m_EditorClassIdentifier: 
+  moveSpeed: 80
+  boostSpeed: 6
+  drag: 1
+  downForce: 250
+  torque: 100
+  maxAngularVelocity: 100
+  angularDrag: 2
+  rotationAccelerationSpeed: 0.002
+  rotationUpForce: 8.5
+  decelerationFactor: 1.5
+  jumpUseWorldSpace: 0
+  jumpTrust: 4.5
+  hoverUseWorldSpace: 0
+  hoverRayDistance: 1.25
+  restingHeight: 1.45
+  forceDamping: 0.5
+  hoverDamping: -2
+  flipTorqueForce: 5.7
+  flipSideForce: 5
